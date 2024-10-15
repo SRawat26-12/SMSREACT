@@ -1,0 +1,28 @@
+{
+  "student": [
+    {
+      "id": "1065",
+      "stuid": "101",
+      "sturoll": "1201",
+      "stuname": "shivam",
+      "stuaddress": "indore",
+      "stufees": "23300"
+    },
+    {
+      "id": "aaa8",
+      "stuid": "103",
+      "sturoll": "1203",
+      "stuname": "vikash",
+      "stuaddress": "ujjain",
+      "stufees": "35000"
+    },
+    {
+      "id": "821d",
+      "stuid": "104",
+      "sturoll": "1205",
+      "stuname": "satyam",
+      "stuaddress": "delhi",
+      "stufees": "36000"
+    }
+  ]
+}
